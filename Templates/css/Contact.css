@@ -1,0 +1,138 @@
+@charset "utf-8";
+
+.ulist2 {
+	list-style-type: none;
+	color:#AFAFAF;
+	font-family: actor;
+	font-style: normal;
+	font-weight: 400;
+}
+a {
+	text-decoration: none;
+}
+.a1 {
+	color: #AFAFAF;
+}
+
+
+.li1 {
+	color: black;
+	float: left;
+	margin-left: 5px;
+	margin-right: 7px;
+	margin-bottom: 10px;
+	text-decoration: none;
+}
+.li1 a:hover{
+	color: black;
+}
+
+
+
+.ulist1 {
+	color: black;
+	font-family: short-stack;
+	list-style-type: none;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	font-style: normal;
+	font-weight: 400;
+}
+footer {
+	clear: both;
+}
+
+
+.p1 {
+	color: #000000;
+	font-family: aclonica;
+	font-style: normal;
+	font-weight: 400;
+	padding-left: 30px;
+	padding-top: 20px;
+	font-size: 1.2em;
+	text-shadow: 0px 0px 10px #000000;
+}
+
+body {
+	background-color: #A3A3A3;
+	background-size: cover;
+	background-clip: border-box;
+	background-image: url(../images/hong_kong-wallpaper-2560x1600.jpg);
+	background-attachment: fixed;
+}
+.h101 {
+	color: #AFAFAF;
+	font-family: chewy;
+	font-style: normal;
+	margin-top: 20px;
+	margin-bottom:0;
+	padding: 0;
+	margin-left: 100px;
+	margin-right: 0;
+	font-size: 7em;
+}
+.h201 {
+	color: #BCBCBC;
+	font-family: aclonica;
+	font-style: normal;
+	font-weight: 400;
+	margin-top: 10px;
+	margin-bottom: 200px;
+	margin-left: 0%;
+	margin-right: 2%;
+	width: 95%;
+	float: left;
+	font-size: 3.4em;
+}
+.sec3 {
+	width: 70%;
+	float: left;
+	margin-bottom: 75px;
+}
+
+.sec1 {
+	width: 100%;
+	float: none;
+	margin-top: 40px;
+	border-radius: 25px;
+	background-image: -webkit-linear-gradient(270deg,rgba(175,175,175,1.00) 0%,rgba(175,175,175,0.41) 97.41%,rgba(175,175,175,0.18) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(175,175,175,1.00) 0%,rgba(175,175,175,0.41) 97.41%,rgba(175,175,175,0.18) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(175,175,175,1.00) 0%,rgba(175,175,175,0.41) 97.41%,rgba(175,175,175,0.18) 100%);
+	background-image: linear-gradient(180deg,rgba(175,175,175,1.00) 0%,rgba(175,175,175,0.41) 97.41%,rgba(175,175,175,0.18) 100%);
+}
+.sec2 {
+	width: 30%;
+	float: right;
+}
+.sec1 .ulist1 li {
+	margin-bottom: 5px;
+}
+.sec4 {
+}
+.a2 {
+	color: #3F3F3F;
+}
+.li2 a:hover {
+	color:#3A2053;
+}
+.li2 a:visited{
+	text-decoration: underline;	
+}
+.sec5 {
+	color : #815ab5;
+	font-family: actor;
+	font-size: 1.2em;
+	border-radius: 30px;
+	margin-left: 200px;
+	float  : left;
+	margin-top : 50px;
+	padding-top: 20px;
+	padding-right: 600px;
+	padding-left: 20px;
+	padding-bottom: 200px;
+	background-image: -webkit-linear-gradient(270deg,rgba(175,175,175,1.00) 0%,rgba(175,175,175,0.23) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(175,175,175,1.00) 0%,rgba(175,175,175,0.23) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(175,175,175,1.00) 0%,rgba(175,175,175,0.23) 100%);
+	background-image: linear-gradient(180deg,rgba(175,175,175,1.00) 0%,rgba(175,175,175,0.23) 100%);
+}
