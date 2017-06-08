@@ -19,6 +19,7 @@
 .sec004 {
 	height: 75%;
 	width: 100%;
+/*	font-family:actor;*/
 	float: left;
 }
 .sec005 {
@@ -53,6 +54,13 @@
 	border-bottom-right-radius: 30px;
 	border-bottom: thick solid #afafaf;
 }
+.img {
+	width: 33px;
+	height: 25px;
+	margin: 0;
+	padding: 0;
+}
+
 
 .sec008 {
 	background-color: #815Ab5;
