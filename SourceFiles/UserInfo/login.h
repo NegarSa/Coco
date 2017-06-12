@@ -1,16 +1,16 @@
 #ifndef LOGIN_H
 #define LOGIN_H
-
+#include <Wt/WContainerWidget>
 #include "user.h"
 
 
-class login
+class login : public Wt::WContainerWidget
 {
 public:
     login(userList ul);
 };
 
-class signup
+class signup : public Wt::WContainerWidget
 {
 public:
     signup(userList ul);
