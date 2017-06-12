@@ -1,5 +1,5 @@
 @charset "utf-8";
-@import url("eLsettinf-logout.css");
+
 .sec001 {
 	width: 10%;
 	float: left;
@@ -10,6 +10,12 @@
 	padding-bottom: 50px;
 	border-top: medium solid #afafaf;
 	border-bottom: thick solid #afafaf;
+}
+.img {
+	width: 33px;
+	height: 25px;
+	margin: 0;
+	padding: 0;
 }
 .sec002 {
 	height: 10%;

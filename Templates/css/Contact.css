@@ -27,7 +27,11 @@ a {
 	color: black;
 }
 
-
+.img {
+	margin-right: 10px;
+	margin-top: 50px;
+	float: left;
+}
 
 .ulist1 {
 	color: black;

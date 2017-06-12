@@ -10,6 +10,12 @@
 	border-top: medium solid #afafaf;
 	border-bottom: thick solid #afafaf;
 }
+.img {
+	width: 33px;
+	height: 25px;
+	margin: 0;
+	padding: 0;
+}
 .sec002 {
 	height: 10%;
 	padding: 0;

@@ -10,6 +10,27 @@
 	border-top: medium solid #afafaf;
 	border-bottom: thick solid #afafaf;
 }
+.li008 a{
+	color: #815ab5;
+	background-color: #424242;
+	padding: 20px;
+	margin-top:10px;
+	margin-left: 400px;
+	margin-right: 88px;
+	float: left;
+	border-radius: 30px;
+	text-align: center;
+	font-family: actor;
+}
+.li008 a:hover{
+	background-color: #afafaf;
+}
+.img {
+	width: 33px;
+	height: 25px;
+	margin: 0;
+	padding: 0;
+}
 .sec002 {
 	height: 10%;
 	padding: 0;
@@ -63,7 +84,7 @@
 	width: 1080px;
 	border-bottom-left-radius: 30px;
 	border-top-left-radius: 30px;
-	padding-bottom: 365px;
+	padding-bottom: 296px;
 }
 .ui001 {
 	list-style-type: none;
